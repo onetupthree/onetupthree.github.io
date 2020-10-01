@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e628406.chunk.css",
-    "main.js": "/static/js/main.83b82a6c.chunk.js",
-    "main.js.map": "/static/js/main.83b82a6c.chunk.js.map",
+    "main.css": "/static/css/main.1cc70620.chunk.css",
+    "main.js": "/static/js/main.acdcc46b.chunk.js",
+    "main.js.map": "/static/js/main.acdcc46b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f4bde92c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f4bde92c.js.map",
     "static/js/2.d896c6d0.chunk.js": "/static/js/2.d896c6d0.chunk.js",
     "static/js/2.d896c6d0.chunk.js.map": "/static/js/2.d896c6d0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.09f63c8ad6487d5a57586c7aa7b30818.js": "/precache-manifest.09f63c8ad6487d5a57586c7aa7b30818.js",
+    "precache-manifest.bfe3548ebf65415410f457717b9876fe.js": "/precache-manifest.bfe3548ebf65415410f457717b9876fe.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8e628406.chunk.css.map": "/static/css/main.8e628406.chunk.css.map",
+    "static/css/main.1cc70620.chunk.css.map": "/static/css/main.1cc70620.chunk.css.map",
     "static/js/2.d896c6d0.chunk.js.LICENSE.txt": "/static/js/2.d896c6d0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/tw-cen-mt.409241c7.ttf",
     "static/media/bluerail_logo.jpg": "/static/media/bluerail_logo.2e089d7d.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.f4bde92c.js",
     "static/js/2.d896c6d0.chunk.js",
-    "static/css/main.8e628406.chunk.css",
-    "static/js/main.83b82a6c.chunk.js"
+    "static/css/main.1cc70620.chunk.css",
+    "static/js/main.acdcc46b.chunk.js"
   ]
 }
