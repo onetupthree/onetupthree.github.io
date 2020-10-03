@@ -1,32 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.150bb36b.chunk.css",
-    "main.js": "/static/js/main.acdcc46b.chunk.js",
-    "main.js.map": "/static/js/main.acdcc46b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f4bde92c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f4bde92c.js.map",
-    "static/js/2.d896c6d0.chunk.js": "/static/js/2.d896c6d0.chunk.js",
-    "static/js/2.d896c6d0.chunk.js.map": "/static/js/2.d896c6d0.chunk.js.map",
+    "main.css": "/static/css/main.b87ba517.chunk.css",
+    "main.js": "/static/js/main.afb14a3d.chunk.js",
+    "main.js.map": "/static/js/main.afb14a3d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.740691d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.740691d1.js.map",
+    "static/js/2.f15cacbd.chunk.js": "/static/js/2.f15cacbd.chunk.js",
+    "static/js/2.f15cacbd.chunk.js.map": "/static/js/2.f15cacbd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f096129bbe1d5f4e3b9fb19179d6a188.js": "/precache-manifest.f096129bbe1d5f4e3b9fb19179d6a188.js",
+    "precache-manifest.3f189f0996ec757a5fffb4798f21e17c.js": "/precache-manifest.3f189f0996ec757a5fffb4798f21e17c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.150bb36b.chunk.css.map": "/static/css/main.150bb36b.chunk.css.map",
-    "static/js/2.d896c6d0.chunk.js.LICENSE.txt": "/static/js/2.d896c6d0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/tw-cen-mt.409241c7.ttf",
-    "static/media/bluerail_logo.jpg": "/static/media/bluerail_logo.2e089d7d.jpg",
-    "static/media/directions.jpg": "/static/media/directions.021e1b63.jpg",
-    "static/media/henry.jpg": "/static/media/henry.58d1ce04.jpg",
-    "static/media/ian.jpg": "/static/media/ian.d03060a6.jpg",
-    "static/media/images.png": "/static/media/images.5502f6f6.png",
-    "static/media/list.png": "/static/media/list.2547586e.png",
-    "static/media/profile.png": "/static/media/profile.f5e51ca7.png",
-    "static/media/ramon.jpg": "/static/media/ramon.01e5be32.jpg",
-    "static/media/sample.jpg": "/static/media/sample.93ff231b.jpg"
+    "static/css/main.b87ba517.chunk.css.map": "/static/css/main.b87ba517.chunk.css.map",
+    "static/js/2.f15cacbd.chunk.js.LICENSE.txt": "/static/js/2.f15cacbd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/leaguegothic-regular-webfont.19156af9.ttf",
+    "static/media/shot-glass-raw.png": "/static/media/shot-glass-raw.5fc599cc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4bde92c.js",
-    "static/js/2.d896c6d0.chunk.js",
-    "static/css/main.150bb36b.chunk.css",
-    "static/js/main.acdcc46b.chunk.js"
+    "static/js/runtime-main.740691d1.js",
+    "static/js/2.f15cacbd.chunk.js",
+    "static/css/main.b87ba517.chunk.css",
+    "static/js/main.afb14a3d.chunk.js"
   ]
 }
