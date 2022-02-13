@@ -1,24 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.b87ba517.chunk.css",
-    "main.js": "/static/js/main.40981baf.chunk.js",
-    "main.js.map": "/static/js/main.40981baf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.740691d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.740691d1.js.map",
-    "static/js/2.f15cacbd.chunk.js": "/static/js/2.f15cacbd.chunk.js",
-    "static/js/2.f15cacbd.chunk.js.map": "/static/js/2.f15cacbd.chunk.js.map",
+    "main.css": "/static/css/main.d62250f8.chunk.css",
+    "main.js": "/static/js/main.a42ab943.chunk.js",
+    "main.js.map": "/static/js/main.a42ab943.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4bde92c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4bde92c.js.map",
+    "static/js/2.d896c6d0.chunk.js": "/static/js/2.d896c6d0.chunk.js",
+    "static/js/2.d896c6d0.chunk.js.map": "/static/js/2.d896c6d0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c945e6bb7d2fad15aebc9c57de9820c4.js": "/precache-manifest.c945e6bb7d2fad15aebc9c57de9820c4.js",
+    "precache-manifest.7c65f697ee11467c83b94b1ac1c93988.js": "/precache-manifest.7c65f697ee11467c83b94b1ac1c93988.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b87ba517.chunk.css.map": "/static/css/main.b87ba517.chunk.css.map",
-    "static/js/2.f15cacbd.chunk.js.LICENSE.txt": "/static/js/2.f15cacbd.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/leaguegothic-regular-webfont.19156af9.ttf",
-    "static/media/shot-glass-raw.png": "/static/media/shot-glass-raw.5fc599cc.png"
+    "static/css/main.d62250f8.chunk.css.map": "/static/css/main.d62250f8.chunk.css.map",
+    "static/js/2.d896c6d0.chunk.js.LICENSE.txt": "/static/js/2.d896c6d0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/tw-cen-mt.409241c7.ttf",
+    "static/media/bollertech_logo_large.jpg": "/static/media/bollertech_logo_large.75d498a4.jpg",
+    "static/media/directions.jpg": "/static/media/directions.021e1b63.jpg",
+    "static/media/henry.jpg": "/static/media/henry.58d1ce04.jpg",
+    "static/media/ian.jpg": "/static/media/ian.d03060a6.jpg",
+    "static/media/images.png": "/static/media/images.5502f6f6.png",
+    "static/media/list.png": "/static/media/list.2547586e.png",
+    "static/media/profile.png": "/static/media/profile.f5e51ca7.png",
+    "static/media/ramon.jpg": "/static/media/ramon.01e5be32.jpg",
+    "static/media/sample.jpg": "/static/media/sample.93ff231b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.740691d1.js",
-    "static/js/2.f15cacbd.chunk.js",
-    "static/css/main.b87ba517.chunk.css",
-    "static/js/main.40981baf.chunk.js"
+    "static/js/runtime-main.f4bde92c.js",
+    "static/js/2.d896c6d0.chunk.js",
+    "static/css/main.d62250f8.chunk.css",
+    "static/js/main.a42ab943.chunk.js"
   ]
 }
