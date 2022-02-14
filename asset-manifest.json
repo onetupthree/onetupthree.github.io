@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4bef1204.chunk.css",
+    "main.css": "/static/css/main.93dbe39c.chunk.css",
     "main.js": "/static/js/main.1a153fbc.chunk.js",
     "main.js.map": "/static/js/main.1a153fbc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f4bde92c.js",
@@ -8,9 +8,9 @@
     "static/js/2.d896c6d0.chunk.js": "/static/js/2.d896c6d0.chunk.js",
     "static/js/2.d896c6d0.chunk.js.map": "/static/js/2.d896c6d0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.01db2967ec15f7d237d03a89f7c029f4.js": "/precache-manifest.01db2967ec15f7d237d03a89f7c029f4.js",
+    "precache-manifest.593081a0fb4f25b4f1f9716d6931fde5.js": "/precache-manifest.593081a0fb4f25b4f1f9716d6931fde5.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4bef1204.chunk.css.map": "/static/css/main.4bef1204.chunk.css.map",
+    "static/css/main.93dbe39c.chunk.css.map": "/static/css/main.93dbe39c.chunk.css.map",
     "static/js/2.d896c6d0.chunk.js.LICENSE.txt": "/static/js/2.d896c6d0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/tw-cen-mt.409241c7.ttf",
     "static/media/bollertech_logo_large.jpg": "/static/media/bollertech_logo_large.75d498a4.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.f4bde92c.js",
     "static/js/2.d896c6d0.chunk.js",
-    "static/css/main.4bef1204.chunk.css",
+    "static/css/main.93dbe39c.chunk.css",
     "static/js/main.1a153fbc.chunk.js"
   ]
 }
